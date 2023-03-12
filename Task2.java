@@ -1,12 +1,9 @@
-package HW5.Task2;
+package Java_HW5.Task2;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/*Подсчитать количество искомого слова, через map (наполнением значение, где искомое слово будет являться ключом)
-
- */
 public class Task2 {
     public static void main(String[] args) {
         Map<String, Integer> mapSt = new HashMap<>();
