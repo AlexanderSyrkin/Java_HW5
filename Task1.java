@@ -5,11 +5,6 @@ import java.util.Map;
 
 import static java.awt.SystemColor.text;
 
-/* Подсчитать количество вхождения каждого слова
-        Пример:
-        Россия идет вперед всей планеты. Планета — это не Россия.
-
- */
 public class Task1 {
     public static void main(String[] args) {
         Map<String, Integer> mapSt = new HashMap<>();
